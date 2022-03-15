@@ -475,17 +475,19 @@ input[type="sumbit"]{
 .iconsocial{
     height: 36px;
     width: 36px;
-    overflow: hidden;
-    background-color: white;
-    margin-right: 30px;
+    background-color: #172a4d;
+    display: flex;
+    border-radius: 100%;
+    align-items: center;
 }
 .iconinfo{
     display: flex;
-    width: auto;
+    width: 394px;
+    justify-content: space-evenly;
 }
-.iconsocial img{
-    width: 100%;
-    height: 100%;
+.iconsocial a{
+    position: relative;
+    left: 11px;
 }
 .footinfo a{
     color: white;
