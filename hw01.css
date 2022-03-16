@@ -327,7 +327,6 @@ input[type="sumbit"]{
 .littleicon{
     height: 150px;
     width: 248px;
-    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -348,7 +347,6 @@ input[type="sumbit"]{
     display: flex;
     height: 270px;
     justify-content: center;
-    margin-top: 2em;
     position: relative;
     top: 20px;
 }
